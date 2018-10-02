@@ -1,0 +1,16 @@
+@inherits BlazorLayoutComponent
+
+<div class="sidebar">
+    <NavMenu />
+</div>
+
+<div class="main">
+    <div class="content px-4">
+        @Body
+    </div>
+    <footer>
+        <div style="text-align: center">
+            © BDotNet 2018 | Built in <span><ion-icon name="heart"></ion-icon></span> with <a href="https://blazor.net" target="_blank">Blazor</a>
+        </div>
+      </footer>
+</div>

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Nish Anil",
+        "designation" : "Senior Program Manager - .NET team, Microsoft",
+        "twitterHandle" : "https://twitter.com/nishanil",
+        "linkedInHandle" : "https://www.linkedin.com/in/nanil/",
+        "profilePic" : "assets/Nish.png"
+    },
+    {
+        "name": "Vic Parmar",
+        "designation" : "Director IT, AaNeel InfoTech",
+        "twitterHandle" : "https://twitter.com/vicparmar",
+        "linkedInHandle" : "https://www.linkedin.com/in/vicparmar/",
+        "profilePic" : "assets/vic.png"
+    },
+    {
+        "name": "Pradeep Malage",
+        "designation" : "Lead Engineer, Gnostice",
+        "twitterHandle" : "https://twitter.com/pradeepmalage",
+        "linkedInHandle" : "https://www.linkedin.com/in/pradeepmalage88/",
+        "profilePic" : "assets/PradeepMalage.png"
+    },
+    {
+        "name": "Swaminathan Vetri",
+        "designation" : "Lead Engineer, JCPenney/Microsoft MVP",
+        "twitterHandle" : "https://twitter.com/svswaminathan",
+        "linkedInHandle" : "https://www.linkedin.com/in/swaminathanvetri/",
+        "profilePic" : "assets/Swami.png"
+    },
+    {
+        "name": "Mohit Chhabra",
+        "designation" : "Sr. Sofware Engineer, Harman/Microsoft MVP",
+        "twitterHandle" : "https://twitter.com/mohit_techy",
+        "linkedInHandle" : "https://www.linkedin.com/in/mohitchhabraazure/",
+        "profilePic" : "assets/mohit.png"
+    },
+    {
+        "name": "Tom Makowski",
+        "designation" : "Technology Advocate, RevDebug",
+        "twitterHandle" : "https://twitter.com/TomMakow",
+        "linkedInHandle" : "https://www.linkedin.com/in/tomasz-makowski/",
+        "profilePic" : "assets/tom.png"
+    }
+]

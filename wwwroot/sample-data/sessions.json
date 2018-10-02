@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Welcome/Event Briefing",
+        "speaker" : "Swaminathan Vetri",
+        "time" : "09:30 AM"
+    },
+    {
+        "title": "Building Resilient Microservices with .NET",
+        "speaker" : "Nish Anil",
+        "time" : "10:00 AM",
+        "speakerImage" : "assets/Nish.png"
+    },
+    {
+        "title": "Break/Networking",
+        "speaker" : "",
+        "time" : "11:00 AM"
+    },
+    {
+        "title": "AI & ML for every .NET Developer",
+        "speaker" : "Vic Parmar",
+        "time" : "11:15 AM",
+        "speakerImage" : "assets/vic.png"
+    },
+    {
+        "title": "What's new in .NET Core 2.1?",
+        "speaker" : "Pradeep Malage",
+        "time" : "12:15 AM",
+        "speakerImage" : "assets/PradeepMalage.png"
+    },
+    {
+        "title": "Lunch/Networking",
+        "speaker" : "",
+        "time" : "12:45 AM"
+    },
+    {
+        "title": "Blazor Modern Web development with .NET & WebAssembly",
+        "speaker" : "Swaminathan Vetri",
+        "time" : "01:30 PM",
+        "speakerImage" : "assets/Swami.png"
+    },
+    {
+        "title": "Crash in Production ? Don't panic",
+        "speaker" : "Tom Makowski",
+        "time" : "02:30 PM",
+        "speakerImage" : "assets/tom.png"
+    },
+    {
+        "title": "Break/Networking",
+        "speaker" : "",
+        "time" : "03:00 PM"
+    },
+    {
+        "title": "Azure DevOps for Open Source Projects",
+        "speaker" : "Mohit Chhabra",
+        "time" : "03:15 PM",
+        "speakerImage" : "assets/mohit.png"
+    },
+    {
+        "title": "Ask the Experts",
+        "speaker" : "",
+        "time" : "04:15 PM"
+    }, 
+    {
+        "title": "Raffle/Goodies Give aways/Wrap up",
+        "speaker" : "",
+        "time" : "04:45 PM"
+    }
+]
