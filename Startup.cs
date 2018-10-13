@@ -2,7 +2,7 @@ using blazor_dotnetconfblr18;
 using Microsoft.AspNetCore.Blazor.Builder;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace dotnetConf
+namespace blazor_dotnetconfblr18
 {
     public class Startup
     {
